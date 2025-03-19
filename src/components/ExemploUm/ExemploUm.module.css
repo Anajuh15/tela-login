@@ -1,0 +1,10 @@
+.exemplo {
+    width: 400px;
+    height: 150px;
+    background-color: green;
+}
+
+.exemplo h1,
+.exemplo p {
+    color: aquamarine;
+}
