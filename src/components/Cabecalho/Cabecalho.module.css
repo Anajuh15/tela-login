@@ -9,18 +9,9 @@
     align-items: center;
 }
 
-.cabecalho a {
-    color: var(--branco-suave);
-    margin-right: 5%;
-
-    font-size: 1.5rem;
-    text-decoration: none;
-}
-
 .imgLogo,
 .imgLogo img {
     height: 100%;
-
 }
 
 .cabecalho a {
