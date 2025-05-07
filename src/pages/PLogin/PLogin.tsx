@@ -1,8 +1,11 @@
 // Importa o componente de cabeçalho da aplicação
 import Cabecalho from "../../components/Cabecalho/Cabecalho";
+import FormAluno from "../../components/Formularios/FormAluno/FormAluno";
+import FormLivro from "../../components/Formularios/FormLivro/FormLivro";
 
 // Importa o componente que contém o formulário de login
-import LoginForm from "../../components/LoginForm/LoginForm";
+import LoginForm from "../../components/Loginform/LoginForm";
+
 
 // Importa o componente de rodapé da aplicação
 import Rodape from "../../components/Rodape/Rodape";
@@ -15,7 +18,7 @@ function PLogin() {
             <Cabecalho />
 
             {/* Renderiza o formulário de login */}
-            <LoginForm />
+            <FormLivro />
 
             {/* Renderiza o rodapé da página */}
             <Rodape />
